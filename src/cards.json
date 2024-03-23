@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbTVXE5bX3scNH490NTI7cw_WJoN6-tPXR-9YOP82FVoLP9xt",
+    "heading": "Title Goes Here",
+    "subheading": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere perferendis corrupti delectus in soluta qui aliquam provident tempore consequatur unde nam,"
+  },
+  {
+    "id": 2,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbTVXE5bX3scNH490NTI7cw_WJoN6-tPXR-9YOP82FVoLP9xt",
+    "heading": "Title Goes Here",
+    "subheading": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere perferendis corrupti delectus in soluta qui aliquam provident tempore consequatur unde nam,"
+  },
+  {
+    "id": 3,
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbTVXE5bX3scNH490NTI7cw_WJoN6-tPXR-9YOP82FVoLP9xt",
+    "heading": "Title Goes Here",
+    "subheading": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facere perferendis corrupti delectus in soluta qui aliquam provident tempore consequatur unde nam,"
+  }
+]
