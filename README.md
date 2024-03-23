@@ -1,6 +1,4 @@
-The instruction to clone the repository and run `npm install` followed by `npm run dev` suggests that your project is using a development environment setup with a script named `dev` to run the application. Below is a simplified version of the README file based on this assumption:
 
----
 
 # MERN Stack Webpage
 
